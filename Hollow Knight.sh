@@ -13,7 +13,7 @@ source $controlfolder/control.txt
 get_controls
 
 # Variables
-GAMEDIR=/$directory/ports/hollow_knight
+GAMEDIR="/$directory/windows/hollow_knight"
 
 # CD and set permissions
 cd $GAMEDIR
